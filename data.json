@@ -1,0 +1,15 @@
+{
+    "nombre": "Miguel",
+    "apellido": "Castro",
+    "edad": 23,
+    "pasatiempo": [
+        "Cocinar",
+        "Programar",
+        "Ver Anime"
+    ],
+    "dirrecion": {
+        "numero": 11,
+        "municipio": "Ritoque"
+    },
+    "Altura": 1.63
+}
