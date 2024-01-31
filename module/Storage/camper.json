@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "Nombre": "camilo",
+        "Apellido": "torres",
+        "Edad": 13,
+        "Genero": "4"
+    }
+]

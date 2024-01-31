@@ -1,4 +1,5 @@
 camper = []
+trainer = []
 def message():
     return " Valid message, Ok"
 
